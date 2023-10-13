@@ -1,0 +1,40 @@
+html{
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(#0f8ba3,#10c1e4,#0f8ba3); 
+    height: 100%; margin: 0; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+.positionButton {
+    width: flex;
+    height: flex;
+    border: none;
+    font-size: 17px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.positionButton:active{
+    width: flex;
+    height: flex;
+    border: none;
+    font-size: 22px;
+    padding: 10px 20px;
+    background-color: #AFE1AF;
+    border-radius: 10px;
+    
+}
+
+.positionButton:focus {
+    width: flex;
+    height: flex;
+    border: none;
+    font-size: 22px;
+    padding: 10px 20px;
+    background-color: #AFE1AF;
+    border-radius: 10px;
+}
