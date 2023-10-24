@@ -45,7 +45,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     border-radius: 0.5rem;
-    background-color: #64b68d;
+    background-color: #2e9cb3;
     box-sizing: border-box;
     box-shadow: 0 0 0px 1px rgba(0, 0, 0, 0.06);
     padding: 0.25rem;
@@ -92,7 +92,7 @@ body{
 }
 
 .wrapp .radio input:checked + .name {
-    background-color: #fff;
+    background-color: #d1d1d1;
     font-weight: 800;
 }
 
@@ -101,7 +101,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     border-radius: 0.5rem;
-    background-color: #64b68d;
+    background-color: #2e9cb3;
     box-sizing: border-box;
     box-shadow: 0 0 0px 1px rgba(0, 0, 0, 0.06);
     padding: 0.25rem;
@@ -133,9 +133,10 @@ body{
 }
 
 .wrappp .radio input:checked + .name {
-    background-color: #fff;
+    background-color: #d1d1d1;
     font-weight: 800;
 }
+
 
 .inputField {
     border-radius: 5px; 
